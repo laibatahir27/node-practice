@@ -1,5 +1,5 @@
 
-require('dotenv').config();
+//require('dotenv').config();
 
 const express = require('express');
 const mongoose = require('mongoose');
@@ -90,3 +90,4 @@ app.post('/contacts', async (req, res) => {
 app.listen(PORT, () => {
   console.log(` Server running on http://localhost:${PORT}`);
 });
+
