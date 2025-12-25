@@ -1,0 +1,14 @@
+[
+  {
+    "firstName": "John",
+    "lastName": "Doe",
+    "email": "john@example.com",
+    "message": "Hello, I need help with my order"
+  },
+  {
+    "firstName": "Jane",
+    "lastName": "Smith",
+    "email": "jane@example.com",
+    "message": "When will my cake be delivered?"
+  }
+]
